@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">datatransfer</string>
+    <string name="title_activity_transfer">transferActivity</string>
+</resources>
